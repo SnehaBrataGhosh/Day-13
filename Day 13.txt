@@ -33,7 +33,9 @@ Guido van Rossum was often jokingly called Python’s “Benevolent Dictator For
 Strange but cool features
 You can use Python as a calculator in a terminal; many people install it mainly to do quick arithmetic and small experiments.
 
-In Python, you can assign to multiple variables at once, like a, b = 1, 2, which is called multiple assignment and is very handy for swapping values.
+In Python, you can assign to multiple variables at once, like:
+a, b = 1, 2 
+which is called multiple assignment and is very handy for swapping values.
 
 Ecosystem fun
 The Python Package Index (PyPI) hosts hundreds of thousands of packages, so developers often joke “there’s a package for everything.”
