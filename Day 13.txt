@@ -5,49 +5,6 @@ Python is not named after the snake but after the British comedy group “Monty 
 
 Guido started Python around Christmas 1989 as a hobby project to keep himself busy, long before it became one of the world’s most popular languages.​
 
-Community and culture
-The Python community often calls experienced Python developers “Pythonistas,” reflecting a distinct culture and identity around the language.​
+Community and cu..........
 
-Python has its own style philosophy called “The Zen of Python” (PEP 20), a collection of guiding principles like “Readability counts” and “Simple is better than complex.”​
-
-Hidden jokes and Easter eggs
-If you run import this in a Python interpreter, it prints “The Zen of Python,” which is built into the language as a little Easter egg.​
-
-Running import antigravity in Python opens a webcomic from xkcd in your browser, another humorous reference baked into the language.​
-
-Design quirks
-In Python, everything is an object, including integers, functions, and even modules, which helps keep the language consistent and flexible.​
-
-Python’s standard examples often use “spam” and “eggs” instead of “foo” and “bar,” as a direct nod to Monty Python sketches.​
-
-Popularity and influence
-Python is actually older than Java: Python’s first release was in 1991, while Java appeared in 1995.​
-
-Despite being older, Python’s huge popularity spike came much later with the rise of data science, AI, and web development, where its simplicity made it a default choice.
-
-Language history
-Python 1.0 was released in 1994, and Python 3.0 (the big “breaking change” version) came out in 2008, leading to a long transition period where Python 2 and 3 coexisted.
-
-Guido van Rossum was often jokingly called Python’s “Benevolent Dictator For Life” (BDFL) until he stepped down from that role in 2018.
-
-Strange but cool features
-You can use Python as a calculator in a terminal; many people install it mainly to do quick arithmetic and small experiments.
-
-In Python, you can assign to multiple variables at once, like:
-a, b = 1, 2 
-which is called multiple assignment and is very handy for swapping values.
-
-Ecosystem fun
-The Python Package Index (PyPI) hosts hundreds of thousands of packages, so developers often joke “there’s a package for everything.”
-
-Some popular tools in other languages are actually written in Python under the hood, especially in areas like build systems, testing tools, and DevOps scripts.
-
-Conferences and community
-The main global conference is called “PyCon,” and there are many regional PyCons (like PyCon India, PyCon US, PyCon Europe) that attract thousands of developers.
-
-Python conferences are known for being very beginner-friendly and inclusive, often having dedicated tracks for newcomers and students.
-
-Real‑world impact
-Python is heavily used at companies like Google, Netflix, and Instagram for tasks ranging from backend services to automation and data analysis.
-
-Because of its readability and gentle learning curve, Python is one of the most common first languages taught in universities and online courses.
+Refer Readme.md
