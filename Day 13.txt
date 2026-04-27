@@ -27,7 +27,6 @@ Despite being older, Python’s huge popularity spike came much later with the r
 
 Language history
 Python 1.0 was released in 1994, and Python 3.0 (the big “breaking change” version) came out in 2008, leading to a long transition period where Python 2 and 3 coexisted.
-
 Guido van Rossum was often jokingly called Python’s “Benevolent Dictator For Life” (BDFL) until he stepped down from that role in 2018.
 
 Strange but cool features
